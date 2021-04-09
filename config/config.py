@@ -18,7 +18,7 @@ class Config :
     DEBUG = True
 
     # JWT용 시크릿 키 
-    SECRET_KEY = 'ohmyungwoon_06_30'
+    SECRET_KEY = 'hyunkyoung_04_23'
     
 
 # 비밀번호 암호화를 위한 salt 설정=> 해킹방지를 위해서
